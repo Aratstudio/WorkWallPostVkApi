@@ -1,6 +1,6 @@
 <?php
-$token = '8fabde35ea682941436ddf829f86050bdb0564e62a1be770d6ce7d1e6f8dad10b54d1a309b25a1c5d67572099';
-$group_id = '1823796972099';
+$token = 'token';
+$group_id = 'your_group_id';
 $vk = new Vk($token);
 
 $image_path = dirname(__FILE__).'/6N_oFJFmULg.jpg'; 
